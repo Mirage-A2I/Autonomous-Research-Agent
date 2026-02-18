@@ -153,7 +153,7 @@ AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
 If this project supports your research or learning,
 please consider giving it a ⭐ on GitHub.
 
-# ⚠️ License & Usage Restriction
+## ⚠️ License & Usage Restriction
 
 © 2026 Fantasy Tech Developer. All rights reserved.
 
